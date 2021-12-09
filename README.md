@@ -1,4 +1,5 @@
-# Application Web en React liée à l'api créée en C#, Sujet 2 : Supermarché
+#Sujet 2 : Supermarché
+## Application Web en React liée à l'api créée en C#
 
 Pour que le site internet fonctionne, il faut d'abord avoir créé la base de données en local et avoir configuré et lancé l'api.
 
