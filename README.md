@@ -8,6 +8,7 @@ A la racine du projet, il y a un script sql qui permet de créer les tables avec
 Base de donnée utilisée : SQLServer avec Microsoft SQL Server Management Studio.
 
 Ensuite, pour configurer l'api on a besoin du "Server Name" qui s'affiche lorsque l'on lance Microsoft SQL Server Management Studio, comme ci-dessous :
+
 ![image](https://user-images.githubusercontent.com/84314581/145428108-6d7ceafe-0214-4ac4-85c3-318db2d86af9.png)
 
 On copie ce "Server Name" et dans les dossiers de l'api, on va dans le fichier "appsettings.json" et il faut remplacer LAPTOP-MOSP0D7T\\SQLEXPRESS par votre "Server Name".
